@@ -1,0 +1,39 @@
+/* CSS Doc for builder2*/
+body {
+  background-color: aliceblue;
+}
+
+#subpara {
+  font-size: small;
+}
+
+.meme {
+  height: 50px;
+  width: 50px;
+}
+
+#thurstonContainer {
+  position: relative;
+}
+
+#thurston {
+  width: 100%;
+  margin: 20px;
+}
+
+#thurstonText {
+  text-align: center;
+  border-style: dotted;
+  border-width: thin;
+  position: absolute;
+  left: 50%;
+  top:60%;
+  color: white;
+}
+
+.cuteThurston {
+  height:200px;
+  border-radius: 25px;
+  padding: 20px;
+  float: right;
+}
