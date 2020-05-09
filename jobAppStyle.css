@@ -1,0 +1,14 @@
+#form-title {
+    text-align:center;
+    padding-top: 20px;
+}
+
+.form-rows {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+form {
+    background-image: url(wallpaper.jpg);
+}
